@@ -1,6 +1,16 @@
-# TodoListApp
+# Todo List App
 
-A simple to-do list application built with HTML, CSS, and JavaScript.
+A simple and responsive to-do list application built with HTML, CSS, and JavaScript.
+
+![Demo](images/demo.gif)
+
+## Description
+This to-do list app allows you to manage your tasks effectively. You can add, mark as complete, and remove tasks effortlessly.
+
+## Screenshots
+Here's a preview of the app:
+- ![Screenshot 1](images/To-do list.png)
+
 
 ## Installation
 1. Clone the repository.
@@ -15,10 +25,10 @@ A simple to-do list application built with HTML, CSS, and JavaScript.
 - User-friendly interface.
 - Responsive design.
 
-
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 
+
 ## Contact Information
-For questions or feedback, contact [Gaurav Ravan](mailto:ravangaurav77@gmail.com).
+For questions or feedback, contact [Your Name](mailto:ravangaurav77@gmail.com).
