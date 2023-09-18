@@ -7,11 +7,6 @@ A simple and responsive to-do list application built with HTML, CSS, and JavaScr
 ## Description
 This to-do list app allows you to manage your tasks effectively. You can add, mark as complete, and remove tasks effortlessly.
 
-## Screenshots
-Here's a preview of the app:
-- ![Screenshot](images/TO-do list.png)
-
-
 ## Installation
 1. Clone the repository.
 2. Open `index.html` in your web browser.
