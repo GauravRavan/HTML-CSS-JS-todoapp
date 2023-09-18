@@ -9,7 +9,7 @@ This to-do list app allows you to manage your tasks effectively. You can add, ma
 
 ## Screenshots
 Here's a preview of the app:
-- ![Screenshot 1](images/TO-do list.png)
+- ![Screenshot](images/TO-do list.png)
 
 
 ## Installation
